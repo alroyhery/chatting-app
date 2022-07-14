@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991955441549",
+    "firebase_url": "https://chatting-app-d29ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatting-app-d29ad",
+    "storage_bucket": "chatting-app-d29ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991955441549:android:d39280fc2acc9bfa050fc4",
+        "android_client_info": {
+          "package_name": "com.project.smmobilechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991955441549-dngrujl934fkkacj6hgg5pcva7jnccul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEG4WL7SCH3SQUUvho9ERi9rsrx83j18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991955441549-dngrujl934fkkacj6hgg5pcva7jnccul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
